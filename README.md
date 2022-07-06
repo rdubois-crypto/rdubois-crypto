@@ -9,7 +9,8 @@ Mathematician and Cryptographer interested in advanced cryptographic protocols, 
 
 
 
-#Links
+# Links
 How to reach me :
+
 📫 [LinkedIn](https://www.linkedin.com/in/renaud-dubois-63a62411/)
 If you're a cryptographer, homeworking in paris, do not hesitate to reach me for a joined session !  
