@@ -5,8 +5,8 @@ Mathematician and Cryptographer interested in advanced cryptographic protocols, 
 
 # Current focus
 - I’m looking to collaborate on unification of cryptographic APIs, merging frameworks (libECC, Arkwork, blst, lib256zkp). Related project is the cylib repo (still a draft for now)
-- I'm currently writting a survey on ZKP and Privacy mechanisms used in SSI and blockchains, the aim is to speed up understanding for a crypto moving from traditional cybersecurity to Blockchain framework. It is also because it helps me to write thing down as i go deep inside the different primitves and implementations. 
-
+- I'm currently learning ZKP and Privacy mechanisms used in SSI and blockchains with a specific focus on Starks.
+- I'm working on a starknet multisignatures and threshold schnorr signatures (Nano signer with Cairo verifier)
 
 
 # Links
