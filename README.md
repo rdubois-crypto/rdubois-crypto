@@ -5,7 +5,7 @@ Mathematician and Cryptographer interested in advanced cryptographic protocols, 
 
 # Current focus
 - I'm currently learning ZKP and Privacy mechanisms used in SSI and blockchains with a specific focus on Starks.
-- I'm working on a starknet implementation of multisignatures and threshold schnorr signatures (Nano signer with Cairo verifier to be integrated in pluugins)
+- I'm working on a starknet implementation of multisignatures and threshold schnorr signatures (Nano signer with Cairo verifier to be integrated in pluugins). Optimizing some stuffs at the occasion (multi exponentiation).
 
 
 # Links
