@@ -6,7 +6,7 @@ Mathematician and Cryptographer interested in advanced cryptographic protocols, 
 # Current focus
 - I'm currently learning ZKP and Privacy mechanisms used in SSI and blockchains with a specific focus on Starks.
 - I'm working on a renovation of our ledger endorsement and airdrop mechanism using a blockchain primitives compatible version of ECDAA.
-
+- I optimize elliptic curves implementation in various environment (solidity, Cairo)
 
 # Links
 How to reach me :
