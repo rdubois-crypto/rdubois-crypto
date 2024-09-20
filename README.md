@@ -4,9 +4,9 @@ Mathematician and Cryptographer interested in advanced cryptographic protocols, 
 
 
 # Current focus
-- I optimize elliptic curves implementation in various environment (solidity, Cairo), this repo contains the fastest pure solidity implementation of EIP7212
+- I optimize elliptic curves implementation in various environment (solidity, Cairo), this repo contains the fastest pure solidity implementation of EIP7212, EIP6565 and RIP7696
 - I'm currently learning ZKP and Privacy mechanisms used in SSI and blockchains with a specific focus on Starks.
-- I'm working a blockchain compatible version of ECDAA with linkability.
+- I'm working a blockchain compatible version of ECDAA with linkability. 
   
 # Links
 How to reach me :
