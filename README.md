@@ -1,6 +1,6 @@
 # Background
 
-Mathematician and Cryptographer interested in advanced cryptographic protocols, mainly relying on the use of pairings (zkp, broadcast encryption, ABE, Anonymous Credentials). I’m currently learning all the uses of previous protocols for Web3.0 applications (Self Sovereignty, Privacy preserving mechanisms).
+Mathematician and Cryptographer interested in advanced cryptographic protocols, (zkp, broadcast encryption, ABE, Anonymous Credentials). 
 
 
 # Current focus
