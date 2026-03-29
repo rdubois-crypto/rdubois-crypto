@@ -4,6 +4,7 @@ Mathematician and Cryptographer interested in advanced cryptographic protocols, 
 
 
 # Current focus
+- I work on the Vectorized Precompile for Ethereum (NVMpy)
 - I optimize lattice computations to protect Ethereum from Quantum threat, i cut cost for solidity and Cairo previous implementation by x20 and x8.
 - I optimize elliptic curves implementation in various environment (solidity, Cairo), this repo contains the fastest pure solidity implementation of EIP7212, EIP6565 and RIP7696
 - I implement MPC protocol to provide untrapdoorable wallet.
